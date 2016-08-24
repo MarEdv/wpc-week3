@@ -13,6 +13,15 @@ maze solver, which included solving a perfect maze, i.e., a maze with no loops
 and that always has one solution.
 
 ## Usage
-Build: cabal build
-Test: cabal test
-Run: cabal run <filename>
+Build: 
+```
+cabal build
+```
+Test: 
+```
+cabal test
+```
+Run: 
+```
+cabal run <filename>
+```
